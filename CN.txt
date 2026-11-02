@@ -1,0 +1,3 @@
+Question: What is the OSI Model and explain its layers?
+    Reference: The Open Systems Interconnection (OSI) model is a conceptual framework that standardizes network communications into seven distinct layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+    Keywords: OSI model, seven layers, physical, data link, network, transport, session, presentation, application

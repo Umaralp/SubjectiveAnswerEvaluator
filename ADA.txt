@@ -1,0 +1,3 @@
+Question: What is Dynamic Programming?
+    Reference: Dynamic programming is an algorithmic technique used to solve optimization problems by breaking them down into smaller subproblems, solving each subproblem once, and storing their solutions using memoization or tabulations to avoid redundant computations.
+    Keywords: dynamic programming, subproblem, optimization, memoization, tabulation, redundant
